@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var num = 12.5f;
+
+            byte q = 255;
+            uint u = 55;
+
+            int a;
+            a = 50;
+            int b = 30;
+            int с = a + b;
+
+            bool isBig = true;
+            bool isBigger = a > b;
+
+            float f = 125.5f
+            double d = 14.6;
+
+            decimal e = 152.625m;
+
+            char r = "r";
+            char t = " ";
+
+            string str = "Строка с текстом";
+
+        }
+    }
+}
